@@ -82,6 +82,7 @@ body{
 .summary{
     color:black;
     font-weight: bold;
+    margin-left: 13px;
 }
 .result-card-1{
     display: flex;
@@ -236,7 +237,7 @@ body{
 
     }
     .left-container{
-        margin-top: -80px;
+        margin-top: -140px;
         padding-top: 60px;
         vertical-align: middle;
         margin-left: auto;
@@ -267,7 +268,7 @@ body{
     }
     .summary{
         margin-top: 5px;
-        margin-left: 10px;
+        
         margin-right: 10px;
     }
     .mark-obtained{
